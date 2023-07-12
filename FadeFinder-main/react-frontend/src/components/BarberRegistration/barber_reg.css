@@ -1,0 +1,38 @@
+.pinbio {
+    display: flex;
+    flex-direction: row;
+}
+
+#pinbio_label {
+    width: 250px;
+}
+
+.impath {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+#impath_label {
+    width: 250px;
+}
+
+.error {
+    color: red;
+}
+
+.registration {
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+}
+.head {
+    text-align: center;
+}
+
+/* .barberReg {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+} */

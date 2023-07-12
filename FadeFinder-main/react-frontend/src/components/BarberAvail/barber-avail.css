@@ -1,0 +1,18 @@
+.dayPicker {
+  border: 5px solid;
+  height: 150px;
+  line-height: 150px;
+  align-items: center;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.availability {
+  text-align: center;
+}
+
+.error {
+  color: red;
+}
